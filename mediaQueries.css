@@ -56,6 +56,12 @@
     position: relative;
     right: -3rem;
   }
+  p{
+    font-size: 1rem;
+  }
+  #workbench{
+    width:500px;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -110,5 +116,17 @@
   }
   .text-container {
     text-align: justify;
+  }
+  .paragraph{
+    font-size: 1rem;
+  }
+  #workbench{
+    width: 300px;
+  }
+  #loginpage{
+    width: 300px;
+  }
+  #boycott{
+    width: 300px;
   }
 }
